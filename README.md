@@ -1,81 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Blueberry%20%5E%5E&fontSize=45&fontAlign=50&fontAlignY=40&desc=TheCreatorJJ%20%C2%B7%20he%2Fhim&descAlign=50&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=200&section=header&text=Blueberry%20%5E%5E&fontSize=50&fontColor=dcdcdc&fontAlign=50&fontAlignY=40&desc=TheCreatorJJ%20%C2%B7%20he%2Fhim&descAlign=50&descAlignY=62&descSize=16&descColor=9a9a9a" />
 
-### 💻 Student Developer · Python & Java
+### `Agham Pangkompyuter`
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheCreatorJJ&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/TheCreatorJJ?style=for-the-badge&color=blue&label=Followers)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheCreatorJJ&color=1a1a2e&style=for-the-badge&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/TheCreatorJJ?style=for-the-badge&color=1a1a2e&labelColor=0f0f0f&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## 👋 About Me
+## / about
 
-- 🎓 Student learning **Data Structures**, **Algorithms**, and **OOP**
-- 🐍 Mostly building with **Python**
-- ☕ Also working with **Java**
-- 🌱 Currently sharpening my problem-solving skills
-- 🎯 Goal: become a solid software engineer
+- Learning **data structures**, **algorithms**, **OOP**
+- Mostly writing **Python**
+- Sometimes **Java**
+- Yearner
+- Long-term: build things worth keeping
 
 ---
 
-## 🛠 Tech Stack
+## / stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-1a1a2e?style=for-the-badge&logo=python&logoColor=dcdcdc)
+![Java](https://img.shields.io/badge/java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=dcdcdc)
+![Git](https://img.shields.io/badge/git-1a1a2e?style=for-the-badge&logo=git&logoColor=dcdcdc)
+![GitHub](https://img.shields.io/badge/github-1a1a2e?style=for-the-badge&logo=github&logoColor=dcdcdc)
+![VS Code](https://img.shields.io/badge/vs%20code-1a1a2e?style=for-the-badge&logo=visual-studio-code&logoColor=dcdcdc)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## / projects
 
-| Project | Description | Stack |
+| project | description | stack |
 |---------|-------------|-------|
-| [**Nasa-asteroid-tracker**](https://github.com/TheCreatorJJ/Nasa-asteroid-tracker) | CLI tool that retrieves and analyzes Near-Earth Objects using NASA's NeoWs API | Python |
-| [**school-projects**](https://github.com/TheCreatorJJ/school-projects) | DSA + OOP school projects — stack simulation, Python exercises | Python |
-| [**Password-Strength-Checker**](https://github.com/TheCreatorJJ/Password-Strength-Checker) | Validates and scores password strength | Python |
-| [**number-analyzer**](https://github.com/TheCreatorJJ/number-analyzer) | Simple number analysis tool | Python |
-| [**CalcuPY**](https://github.com/TheCreatorJJ/CalcuPY) | A Python calculator | Python |
+| [**Nasa-asteroid-tracker**](https://github.com/TheCreatorJJ/Nasa-asteroid-tracker) | CLI tool that retrieves and analyzes Near-Earth Objects via NASA's NeoWs API | Python |
+| [**school-projects**](https://github.com/TheCreatorJJ/school-projects) | DSA + OOP school work — stack simulation and exercises | Python |
+
 
 ---
 
-## 📊 GitHub Stats
+## / stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheCreatorJJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreatorJJ&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TheCreatorJJ&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=dcdcdc&text_color=9a9a9a&icon_color=6a6a8a&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCreatorJJ&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=dcdcdc&text_color=9a9a9a" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCreatorJJ&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCreatorJJ&theme=dark&hide_border=true&background=0f0f0f&stroke=1a1a2e&ring=6a6a8a&fire=6a6a8a&currStreakLabel=dcdcdc&sideLabels=9a9a9a&dates=6a6a8a" />
 
 </div>
 
 ---
 
-## 📫 Connect
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCreatorJJ)
+_"green flags only."_
 
 </div>
 
-<div align="center">
-
-_"Green flags only."_ 🌱
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=100&section=footer" />
