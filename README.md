@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=200&section=header&text=Blueberry%20%5E%5E&fontSize=50&fontColor=dcdcdc&fontAlign=50&fontAlignY=40&desc=TheCreatorJJ%20%C2%B7%20he%2Fhim&descAlign=50&descAlignY=62&descSize=16&descColor=9a9a9a" style="pointer-events: none; cursor: default;" />
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=200&section=header&text=Blueberry%20%5E%5E&fontSize=50&fontColor=dcdcdc&fontAlign=50&fontAlignY=40&desc=TheCreatorJJ%20%C2%B7%20he%2Fhim&descAlign=50&descAlignY=62&descSize=16&descColor=9a9a9a" />
+</picture>
 
 ### `Agham Pangkompyuter`
 
@@ -27,11 +29,21 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-1a1a2e?style=for-the-badge&logo=python&logoColor=dcdcdc)
-![Java](https://img.shields.io/badge/java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=dcdcdc)
-![Git](https://img.shields.io/badge/git-1a1a2e?style=for-the-badge&logo=git&logoColor=dcdcdc)
-![GitHub](https://img.shields.io/badge/github-1a1a2e?style=for-the-badge&logo=github&logoColor=dcdcdc)
-![VS Code](https://img.shields.io/badge/vs%20code-1a1a2e?style=for-the-badge&logo=visual-studio-code&logoColor=dcdcdc)
+<picture>
+  <img src="https://img.shields.io/badge/python-1a1a2e?style=for-the-badge&logo=python&logoColor=dcdcdc" />
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=dcdcdc" />
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/git-1a1a2e?style=for-the-badge&logo=git&logoColor=dcdcdc" />
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/github-1a1a2e?style=for-the-badge&logo=github&logoColor=dcdcdc" />
+</picture>
+<picture>
+  <img src="https://img.shields.io/badge/vs%20code-1a1a2e?style=for-the-badge&logo=visual-studio-code&logoColor=dcdcdc" />
+</picture>
 
 </div>
 
@@ -50,7 +62,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCreatorJJ&theme=dark&hide_border=true&background=0f0f0f&stroke=1a1a2e&ring=6a6a8a&fire=6a6a8a&currStreakLabel=dcdcdc&sideLabels=9a9a9a&dates=6a6a8a" style="pointer-events: none; cursor: default;" />
+<picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCreatorJJ&theme=dark&hide_border=true&background=0f0f0f&stroke=1a1a2e&ring=6a6a8a&fire=6a6a8a&currStreakLabel=dcdcdc&sideLabels=9a9a9a&dates=6a6a8a" />
+</picture>
 
 </div>
 
@@ -62,4 +76,6 @@ _"green flags only."_
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=100&section=footer" style="pointer-events: none; cursor: default;" />
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=100&section=footer" />
+</picture>
