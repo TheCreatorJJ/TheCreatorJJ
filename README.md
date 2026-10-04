@@ -41,9 +41,6 @@
 <picture>
   <img src="https://img.shields.io/badge/github-1a1a2e?style=for-the-badge&logo=github&logoColor=dcdcdc" />
 </picture>
-<picture>
-  <img src="https://img.shields.io/badge/vs%20code-1a1a2e?style=for-the-badge&logo=visual-studio-code&logoColor=dcdcdc" />
-</picture>
 
 </div>
 
@@ -54,7 +51,8 @@
 | project | description | stack |
 |---------|-------------|-------|
 | [**Nasa-asteroid-tracker**](https://github.com/TheCreatorJJ/Nasa-asteroid-tracker) | CLI tool that retrieves and analyzes Near-Earth Objects via NASA's NeoWs API | Python |
-| [**school-projects**](https://github.com/TheCreatorJJ/school-projects) | DSA + OOP school work — stack simulation and exercises | Python |
+| [**school-projects**](https://github.com/TheCreatorJJ/school-projects) | DSA + OOP school work — stack simulation and exercises | Python & Java |
+| [**Desktop-Apps**](https://github.com/TheCreatorJJ/Desktop-Apps)  | Dekstop Apps Like Aesthetic pomodoro | Electron,Vanila Html/CSS/JS
 
 ---
 
