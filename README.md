@@ -17,11 +17,10 @@
 
 ## / about
 
-- Learning **data structures**, **algorithms**, **OOP**
+- Learning stuffs
 - Mostly writing **Python**
-- Sometimes **Java**
-- Yearner
-- Long-term: build things worth keeping
+- Sometimes **Java** 
+- Delusional Person: Future Quant Dev
 
 ---
 
